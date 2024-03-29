@@ -1,4 +1,4 @@
-# Curso-Git
+# Repositorio de un Curso
 Repositorio para ver las funcionalidades de git-hub
 
 ## De esta manera se escriben las Descripciones agregando ===> "##"
